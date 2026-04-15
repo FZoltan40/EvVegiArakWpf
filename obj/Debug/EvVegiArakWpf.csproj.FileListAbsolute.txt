@@ -1,0 +1,15 @@
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\bin\Debug\EvVegiArakWpf.exe.config
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\bin\Debug\EvVegiArakWpf.exe
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\bin\Debug\EvVegiArakWpf.pdb
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.csproj.AssemblyReference.cache
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\MainWindow.g.cs
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\App.g.cs
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf_MarkupCompile.cache
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf_MarkupCompile.lref
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\MainWindow.baml
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.g.resources
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.Properties.Resources.resources
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.csproj.GenerateResource.cache
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.csproj.CoreCompileInputs.cache
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.exe
+C:\Users\zoli\Desktop\2025_2026\12Asztali\EvVegiArakWpf\obj\Debug\EvVegiArakWpf.pdb
