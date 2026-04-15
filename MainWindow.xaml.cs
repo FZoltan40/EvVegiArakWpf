@@ -10,6 +10,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
@@ -25,11 +26,13 @@ namespace EvVegiArakWpf
         {
             InitializeComponent();
             LoadData();
+            deleteButton1.IsEnabled = false;
         }
 
+        List<Arak> arak = new List<Arak>();
         public void LoadData()
         {
-            List<Arak> arak = new List<Arak>();
+           
             string[] beolvas = File.ReadAllLines("TermekekArai.txt");
 
             for (int i = 1; i < beolvas.Length; i++)
@@ -39,6 +42,20 @@ namespace EvVegiArakWpf
             }
 
             dataGrid1.ItemsSource = arak;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var aru = dataGrid1.SelectedItem as Arak;
+            arak.Remove(aru);
+            dataGrid1.ItemsSource = null;
+            dataGrid1.ItemsSource = arak;
+
+        }
+
+        private void dataGrid1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            deleteButton1.IsEnabled = true;
         }
     }
 
